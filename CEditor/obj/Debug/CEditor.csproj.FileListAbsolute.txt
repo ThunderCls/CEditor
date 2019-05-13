@@ -1,0 +1,9 @@
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Debug\CEditor.exe.config
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Debug\CEditor.exe
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Debug\CEditor.pdb
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.frmMain.resources
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.Properties.Resources.resources
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.csproj.GenerateResource.Cache
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.exe
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.pdb
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Debug\CEditor.csprojResolveAssemblyReference.cache

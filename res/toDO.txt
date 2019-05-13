@@ -1,0 +1,3 @@
++add: fusion combos (at the end, merge)
++change design
++cancel button for the process file

@@ -1,0 +1,14 @@
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\CEditor.exe.config
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\CEditor.exe
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\CEditor.pdb
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.frmMain.resources
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.Properties.Resources.resources
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.csproj.GenerateResource.Cache
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.exe
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.pdb
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\FlatUI.dll
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\MaterialSkin.dll
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\FlatUI.pdb
+E:\GITHUB Projects\CEditor\CEditor\CEditor\obj\Release\CEditor.csprojResolveAssemblyReference.cache
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\BrotliSharpLib.dll
+E:\GITHUB Projects\CEditor\CEditor\CEditor\bin\Release\BrotliSharpLib.xml
